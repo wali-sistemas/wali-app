@@ -1,0 +1,2 @@
+# wali-app
+app ionic
