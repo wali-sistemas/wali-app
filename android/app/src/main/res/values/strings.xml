@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wali</string>
+    <string name="title_activity_main">wali</string>
+    <string name="package_name">wali.com</string>
+    <string name="custom_url_scheme">wali.com</string>
+</resources>
